@@ -1,3 +1,2 @@
 This is feature A
 This is feature B
-This is feature C
